@@ -11,6 +11,10 @@ h1 {
   margin-top: 200px;
 }
 
+h2 {
+  text-align: center;
+}
+
 .speech-text {
   font-size: 18px;
   font-weight: 200;
